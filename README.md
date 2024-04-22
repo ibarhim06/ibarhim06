@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ibarhim06
-- 👀 I’m  Front-end Developer 
-- 🌱 I’m currently learning cyber security
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @ibrahim06
+- 👀 Front-end Developer 
+- 🌱 I’m currently learning Cyber security
+- 💞️ Working on Adv. Python
 - 📫 How to reach me ...
 
 <!---
